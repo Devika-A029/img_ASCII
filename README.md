@@ -1,1 +1,1 @@
-# img_ASCII
+The Image to ASCII Art Converter is a Python-based program that transforms an image into a text-based representation using ASCII characters. Instead of displaying an image with colors, this program maps different shades of gray to ASCII symbols, creating an artistic textual version of the original image
